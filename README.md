@@ -30,7 +30,7 @@ Software Development | Artificial Intelligence | Cloud Technologies
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/leela-amrutha-ponnaganti-
-- **GitHub:** github.com/leelaamruthaponnaganti](https://github.com/leelaamruthaponnaganti.
+- **GitHub:** https://github.com/leelaamruthaponnaganti.
 
 ---
 
