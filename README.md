@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Amrutha 👋
 
-<!--
-**leelaamruthaponnaganti/leelaamruthaponnaganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring IT Professional | Software Developer | AI Enthusiast**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a recent BCA graduate with a strong interest in software development, web technologies, and Artificial Intelligence. I enjoy exploring new technologies, developing practical applications, and continuously improving my technical skills.
+
+## Technical Skills
+
+- Programming Languages: Python, JavaScript
+- **Web Technologies:** HTML, CSS, React
+- **Developer Tools:** Git, GitHub, VS Code
+- **Currently Learning:** ServiceNow
+
+## Featured Project
+
+### ATSXray – AI-Powered Resume Analyzer
+
+An intelligent resume analysis platform designed to help job seekers improve their resumes and identify how well they align with job requirements.
+
+- Analyzes resumes against specific job descriptions.
+- Identifies matching skills and missing keywords.
+- Evaluates resume relevance and provides improvement suggestions.
+
+## Career Interests
+
+Software Development | Artificial Intelligence | Cloud Technologies
+
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/leela-amrutha-ponnaganti-
+- **GitHub:** github.com/leelaamruthaponnaganti](https://github.com/leelaamruthaponnaganti.
+
+---
+
+🚀 *Learning continuously, building innovatively, and growing professionally.*
