@@ -1,14 +1,14 @@
-# Hi, I'm Amrutha 👋
+# Hi, I'm Leela Amrutha 👋
 
 **Aspiring IT Professional | Software Developer | AI Enthusiast**
 
 ## About Me
+Passionate about software development, web technologies, and emerging technologies. I enjoy building practical projects and continuously learning new skills to solve real-world problems.
 
-I'm a recent BCA graduate with a strong interest in software development, web technologies, and Artificial Intelligence. I enjoy exploring new technologies, developing practical applications, and continuously improving my technical skills.
 
 ## Technical Skills
 
-- Programming Languages: Python, JavaScript
+- **Programming Languages:** Python, JavaScript
 - **Web Technologies:** HTML, CSS, React
 - **Developer Tools:** Git, GitHub, VS Code
 - **Currently Learning:** ServiceNow
